@@ -1,0 +1,7 @@
+export const actions = {
+    INCREASE: 'INCREASE',
+    DECREASE: 'DECREASE',
+    CLEAR_CART: 'CLEAR_CART',
+    REMOVE_ITEM: 'REMOVE_ITEM',
+    GET_TOTALS: 'GET_TOTALS'
+}  
